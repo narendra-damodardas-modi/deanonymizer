@@ -1,4 +1,4 @@
-import type { Item, Platform, Profile } from "../types.js";
+import type { Item, Profile } from "../types.js";
 
 /** Sent on every outbound source request so operators can identify the tool. */
 export const USER_AGENT = "deanonymizer/0.1 (privacy self-audit)";
